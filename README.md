@@ -1,5 +1,4 @@
 # Binary-Tree
-Binary Tree Traversal &amp; Nodes Count,  Creating Binary Tree &amp; Searching the Level of the Node 
 
 * Binary Tree Traversal & Nodes Counting  二叉树的遍历、叶子节点的计算
 
